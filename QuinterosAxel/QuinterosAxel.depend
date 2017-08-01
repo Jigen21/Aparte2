@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1499958792 source:c:\users\alumno\desktop\quinterosaxel\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497656170 c:\users\alumno\desktop\quinterosaxel\arraylist.h
+
+1501202880 source:c:\users\alumno\desktop\quinterosaxel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Class.Log.h"
+	"Class.Services.h"
+
+1499983420 source:c:\users\alumno\desktop\quinterosaxel\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1501203453 source:c:\users\alumno\desktop\quinterosaxel\class.log.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Functions.h"
+	"Class.Log.h"
+	"Class.Services.h"
+
+1499983420 c:\users\alumno\desktop\quinterosaxel\functions.h
+
+1501201033 c:\users\alumno\desktop\quinterosaxel\class.log.h
+	"ArrayList.h"
+
+1501201033 c:\users\alumno\desktop\quinterosaxel\class.services.h
+	"ArrayList.h"
+
+1501198928 source:c:\users\alumno\desktop\quinterosaxel\class.services.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Functions.h"
+	"Class.Services.h"
+
